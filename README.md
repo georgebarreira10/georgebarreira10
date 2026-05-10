@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🌱 I’m currently learning Full Stack at Digital College Fortaleza-Ce Brazil.
+### 🌱 Full Stack Dev
 #### Dev in progress...
 ##### **Develop Digital Future**
 
